@@ -3,33 +3,33 @@ body {
 }
 
 h1 {
-    color: orange;
+    color: orange; background-color: green;
 }
 
 .p1 {
-    color: yellow;
+    color: yellow; background-color: blue;
 }
 
 h2 {
-    color: red;
+    color: red; background-color: gray;
 }
 
 .p2 {
-    color: brown;
+    color: brown; background-color: azure;
 }
 
 #item-1 {
-    color: green;
+    color: green; background-color: blueviolet;
 }
 
 #item-2 {
-    color: violet;
+    color: violet; background-color: orangered;
 }
 
 #item-3 {
-    color: blue;
+    color: blue; background-color: gold;
 }
 
 #item-4 {
-    color: navy;
+    color: navy; background-color: beige;
 }
